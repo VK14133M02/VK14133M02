@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vikram Kumar</h1>
-<h3 align="center">A passionate full stack web developer with a positive mindset, and strong, creative & analytical skills. I worked more than 1200 hours on my technical skills, developed single page, multiple-page applications, and worked on the backend as well. I am young, honest, dedicated to my job and a team player with an eye for detail. Right now, I am looking for a job opportunity</h3>
+<h3 align="center">A passionate Full Stack Web Developer skilled in MERN stack.</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB, Charka UI**
+- 🌱 I’m currently learning **Full stack web development**
 
 - 👨‍💻 All of my projects are available at [https://vk14133m02.github.io/](https://vk14133m02.github.io/)
+
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB, Charka UI**
 
 - 📫 How to reach me **vk14133m02059@gmail.com**
 
@@ -11,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vikram-kumar850/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikram-kumar850/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vikram-kumar850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikram-kumar850" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
