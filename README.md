@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikram Kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer skilled in MERN stack.</h3>
-
+<img align="right" src="https://www.canva.com/design/DAFb1F5sgDI/Bx6pm1CBn3A9lmfosQpvKA/view?utm_content=DAFb1F5sgDI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" />
 - 🌱 I’m currently learning **Full stack web development**
 
 - 👨‍💻 All of my projects are available at [https://vk14133m02.github.io/](https://vk14133m02.github.io/)
