@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Vikram Kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer skilled in MERN stack.</h3>
-
+<img align="center" src="./animation.gif" alt="animation">
 🌱 I’m currently learning Full stack web development<br>👨‍💻 All of my projects are available at https://github.com/VK14133M02<br>👨‍💻 You can see my portfolio here https://vk14133m02.github.io/<br>💬 Ask me about HTML, CSS, JavaScript, React, Redux,TypeScript,Cypress Testing, Node.js, Express.js, MongoDB, Charka UI<br>📫 How to reach me vk14133m02059@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/11YbVvtay5QEnFv-ZkVRAiVZJS8cPu-Ao/view?usp=sharing
 
 ## 🌐 Socials:
