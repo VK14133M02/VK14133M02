@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vikram Kumar</h1>
 <h3 align="center">A passionate QA Software Engineer Skilled with Full Stack Web Developer skilled in MERN stack.</h3>
 <img align="center" src="./animation.gif" alt="animation">
-🌱 I’m currently working as QA automation engineer<br>👨‍💻 All of my projects are available at https://www.crio.do/learn/portfolio/vikram-kumar-criodo-co/?edit=true#skills and
-https://github.com/VK14133M02<br>👨‍💻 You can see my portfolio here https://vk14133m02.github.io/<br>💬 Ask me about HTML, CSS, JavaScript, React, Redux, TypeScript, Cypress Testing, Node.js, Express.js, MongoDB, Charka UI<br>📫 How to reach me vk14133m02059@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/11YbVvtay5QEnFv-ZkVRAiVZJS8cPu-Ao/view?usp=sharing
-
+🌱 I’m currently working as QA automation engineer<br>👨‍💻 All of my projects are available at https://github.com/VK14133M02<br>👨‍💻 You can see my portfolio here  https://www.crio.do/learn/portfolio/vikram-kumar-criodo-co/?edit=true#skills and https://vk14133m02.github.io/<br>💬 Ask me about Java, Selenium, TestNG, JUnit, TestNG, JMeter, Jenkins, HTML, CSS, JavaScript, React, Redux, TypeScript, Cypress Testing, Node.js, Express.js, MongoDB, Charka UI<br>📫 How to reach me vk14133m02059@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1Yb1WDTWHoZ1-ouEob82AKzkzsdsiuWIO/view?usp=sharing
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikram-kumar850)
